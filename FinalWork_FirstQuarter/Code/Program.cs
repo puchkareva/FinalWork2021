@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace FinalWork_FirstQuarter
+namespace Code
 {
     class Program
     {
